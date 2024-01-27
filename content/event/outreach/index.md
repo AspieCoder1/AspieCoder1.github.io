@@ -45,7 +45,7 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: '/uploads/pet_outreach_slides.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
