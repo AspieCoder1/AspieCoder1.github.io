@@ -66,7 +66,7 @@ education:
       text: Read Thesis
       url: '/uploads/MPhil_thesis.pdf'
   - area: BSc(Hons) Computer Science
-    institution: University of Cambridge
+    institution: University of Manchester
     date_start: 2020-10-01
     date_end: 2023-06-30
     summary: |
