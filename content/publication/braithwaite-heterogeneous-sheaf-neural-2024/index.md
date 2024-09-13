@@ -5,6 +5,7 @@ authors:
 - Iulia Duta
 - Pietro Liò
 date: '2024-09-12'
+featured: true
 publishDate: '2024-09-13T10:01:21.261544Z'
 publication_types:
 - manuscript
@@ -23,7 +24,10 @@ abstract: Heterogeneous graphs, with nodes and edges of different types, are com
   heterogeneous graph benchmarks, achieving competitive results whilst being more
   parameter-efficient.
 tags:
-- Computer Science - Machine Learning
+- Computer Science
+- Machine Learning
+- Deep Learning
+- GNNs
 links:
 - name: URL
   url: http://arxiv.org/abs/2409.08036
