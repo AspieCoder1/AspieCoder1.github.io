@@ -1,0 +1,14 @@
+---
+title: 'Mining Heterogeneous Information Networks: Principles and Methodologies'
+authors:
+- Yizhou Sun
+- Jiawei Han
+date: '2012-01-01'
+publishDate: '2024-09-13T09:52:59.305372Z'
+publication_types:
+- book
+publication: '*Springer International Publishing*'
+links:
+- name: URL
+  url: https://link.springer.com/10.1007/978-3-031-01902-9
+---
