@@ -1,24 +1,24 @@
 ---
-title: Sheaves for Heterogeneous Data
+title: Sheaf Heterogeneous Neural Networks
 
 event: AI Foundations Talk Series
 
-location: William Gates Building LT2
-address:
-  street: 15 JJ Thomson Avenue
-  city: Cambridge
-  # region: Cambridgeshire
-  postcode: 'CB3 0FD'
-  # country: United Kingdom
+location: Online (Zoom)
+# address:
+#   street: 15 JJ Thomson Avenue
+#   city: Cambridge
+#   # region: Cambridgeshire
+#   postcode: 'CB3 0FD'
+#   # country: United Kingdom
 
 summary: Talk given as part of the AI Foundation series discussing my MPhil thesis
 abstract: |- 
-  To be added later
+  Heterogeneous graphs, with nodes and edges of different types, are commonly used to model relational structures in many real-world applications, such as social networks, recommendation systems, and bioinformatics. Current heterogeneous graph neural networks have focused on accounting for the heterogeneity in the model architecture, leading to increasingly complex models. This talk discusses a novel approach that uses cellular sheaves to model the heterogeneity in the graph's underlying topology and achieves competitive benchmark results while being more parameter-efficient.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-08-28T11:00:00Z'
-date_end: '2024-08-28T11:45:00Z'
+date: '2024-09-27T17:00:00Z'
+date_end: '2024-09-27T17:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -42,7 +42,7 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'slides/sheaves_for_heterogeneous_data.pdf'
+url_slides: 'slides/sheaf_heterogeneous_neural_networks.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
