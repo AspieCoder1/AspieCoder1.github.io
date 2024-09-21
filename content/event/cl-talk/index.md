@@ -36,6 +36,8 @@ image:
   focal_point: Right
 
 links:
+  - name: URL
+    url: 'https://talks.cam.ac.uk/talk/index/221617'
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
