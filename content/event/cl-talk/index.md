@@ -3,7 +3,7 @@ title: Sheaf Heterogeneous Neural Networks
 
 event: AI Foundations Talk Series
 
-location: Online (Zoom)
+location: Lecture Theatre 2, Computer Laboratory, William Gates Building
 # address:
 #   street: 15 JJ Thomson Avenue
 #   city: Cambridge
