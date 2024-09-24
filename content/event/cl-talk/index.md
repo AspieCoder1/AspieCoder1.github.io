@@ -44,7 +44,7 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'slides/sheaf_heterogeneous_neural_networks.pdf'
+url_slides: 'slides/sheaves_for_heterogeneous_data.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
