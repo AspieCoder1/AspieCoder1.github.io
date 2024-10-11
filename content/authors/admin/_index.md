@@ -41,10 +41,10 @@ profiles:
     url: https://github.com/AspieCoder1
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/luke-braithwaite/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=gs4Ku0YAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0001-6480-8776
 
 interests:
   - Machine Learning
