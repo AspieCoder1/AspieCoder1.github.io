@@ -79,12 +79,12 @@ education:
       text: Read Dissertation
       url: /uploads/BSc_dissertation.pdf
 work:
-  - position: Software Engineer, Project
+  - position: Software Engineer III, AI Deployments
     company_name: PolyAI
     company_url: https://poly.ai/
     date_start: 2024-09-16
     summary: |2-
-      Member of the project team responsible for creating conversational AI systems for customer services.
+      Member of the AI deployments team responsible for creating conversational AI systems for customer services.
   - position: Casual Project Assistant (Software Engineer)
     company_name: The University of Manchester (Imago Software)
     company_url: ''
