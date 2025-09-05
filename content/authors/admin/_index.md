@@ -20,23 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MPhil Advanced Computer Science Student
+role: Software Engineer III, AI Deployments
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Cambridge
-    url: https://www.cst.cam.ac.uk/
-
+  - name: PolyAI
+    url: https://poly.ai/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:lukebraithwaite7@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/AspieCoder1
   - icon: brands/linkedin
@@ -50,6 +45,8 @@ interests:
   - Machine Learning
   - Geometric Deep Learning
   - Graph Neural Networks
+  - Telephony
+  - Software Engineer
 
 education:
   - area: MPhil Advanced Computer Science
